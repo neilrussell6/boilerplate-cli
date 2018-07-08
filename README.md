@@ -1,7 +1,7 @@
 myapp
 ===
 
-> This is some boilerplate for Python CLI apps
+> Boilerplate for Python CLI app
 
 setup
 ---
